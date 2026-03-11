@@ -35,7 +35,7 @@
     viewModel层：Pager创建Flow并通过cacheIn共享缓存并绑定生命周期
 
 #### 2.2 详细设计
-    ![ui_app_architecture.png](resources/ui_app_architecture.png)
+![ui_app_architecture.png](doc/resources/ui_app_architecture.png)
 
 #### 2.3 接口设计
      BASE_URL = "https://superheroapi.com/api/${ACCESS_TOKEN}/"
